@@ -1,13 +1,5 @@
 {
   "store.home": { 
-    "blocks": [
-      "rich-text"
-    ]
-  },
-  "rich-text":{
-    "propos":{
-      "text":"*Hello, World!*",
-      "textPosition":"CENTER"
-    }
+    "blocks": []
   }
 }
