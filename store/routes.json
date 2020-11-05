@@ -1,8 +1,5 @@
 {
-  "store.custom#about-us": {
-    "path": "/about-us"
-  },  
-  "store.home": {
+    "store.home": {
       "path": "/"
     },
     "store.account": {
@@ -15,5 +12,8 @@
       "path": "/_v/segment/routing/vtex.store@2.x/product/:id/:slug/p",
       "canonical": "/:slug/p",
       "contentType": "product"
+    },
+    "store.custom#about-us": {
+      "path": "/about-us"
     }
 }
