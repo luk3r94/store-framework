@@ -1,0 +1,21 @@
+{
+    "store.home": {
+      "path": "/"
+    },
+    "store.account": {
+      "path": "/account"
+    },
+    "store.login": {
+      "path": "/login"
+    },
+    "store.product": {
+      "path": "/_v/segment/routing/vtex.store@2.x/product/:id/:slug/p",
+      "canonical": "/:slug/p",
+      "contentType": "product"
+    },
+    "store.search": {
+      "path": "/:term/s",
+      "canonical": "/:term",
+      "contentType": "search"
+    }
+}
