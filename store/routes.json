@@ -13,7 +13,7 @@
       "canonical": "/:slug/p",
       "contentType": "product"
     },
-    "store.custom#about-us": {
+    "store.custom#{about-us}": {
       "path": "/about-us"
     }
 }
