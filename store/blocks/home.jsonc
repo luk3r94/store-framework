@@ -1,6 +1,8 @@
 {
   "store.home": { 
     "blocks": [
+      "rich-text"
     ]
-  }
+  },
+  "rich-text":{}
 }
