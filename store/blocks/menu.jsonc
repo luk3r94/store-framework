@@ -13,12 +13,6 @@
     "menu-item#major-appliances":{
         "blocks":["vtex.menu@2.x:submenu#major"]
     },
-    "menu-item#small-appliances":{
-        "blocks":["vtex.menu@2.x:submenu#small"]
-    },
-    "menu-item#electronics":{
-        "blocks":["vtex.menu@2.x:submenu#electronics"]
-    },
 
     "vtex.menu@2.x:submenu#major":{
         "children":[
@@ -39,6 +33,13 @@
     "menu-item#refrigerators":{},
     "menu-item#ovens":{},
     "menu-item#washers":{},
+
+    "menu-item#small-appliances":{
+        "blocks":["vtex.menu@2.x:submenu#small"]
+    },
+    "menu-item#electronics":{
+        "blocks":["vtex.menu@2.x:submenu#electronics"]
+    },
 
     "vtex.menu@2.x:submenu#small":{
         "children":[
